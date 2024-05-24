@@ -16,8 +16,8 @@ My name is **Shira Chesler** and I am a master's student in Computer Science at 
 
 
 ### Projects
-- 🌟 [Project 1](https://github.com/shira-chesler/Networks_Final_Project): Investigating traffic analysis attacks using data science tools. This project got a grade of 110%.
-- 🌟 [Project 2](https://github.com/shira-chesler/Data_visualization_project/tree/main): Recognizing shapes, lines, and hand lifts in kids's drawings based on angles and pressure points (without usage of DL methods).
+- 🌟 [Rraffic Attacks Analysis](https://github.com/shira-chesler/Networks_Final_Project): Investigating traffic analysis attacks using data science tools. This project got a grade of 110%.
+- 🌟 [Kids Drawings Recognition](https://github.com/shira-chesler/Data_visualization_project/tree/main): Recognizing shapes, lines, and hand lifts in kids's drawings based on angles and pressure points (without usage of DL methods).
 
 ---
 
